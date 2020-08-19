@@ -2,14 +2,17 @@
 
 ## Board Members
 
-We're looking for more
+We're looking for more members to help us handle code-of-conduct violations, enforce rules and moderate our Community Hubs, and voluntarily maintain our projects.
+If you think you want to join us, [create a new issue](https://github.com/MadeByThePinsHub/Community-Hubs-Network-Board/issues).
 
 ### Current
 
-| Name | Member since | GitHub/GitLab.com Username | Email | Telegram | Keybase | Part of the team? | Community |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Andrei Jiroh | Since the team is founded | AndreiJirohHaliliDev2006 ([GitHub](https://github.com/AndreiJirohHaliliDev2006)/[GitLab](https://gitlab.com/AndreiJirohHaliliDev2006))| <andreijiroh@madebythepins.tk> | [AJHalili2006](https://telegram.dog/AJHalili2006) | TBA | Yes | All |
-| Zulkarnain K. | June 06 | TBA | TBA | [LouCypher](https://telegram.dog/LouCypher) | TBA | Yes, as a FedAdmin in the Telegram Community Network bot fed. | Telegram
+| Name | Member since | GitHub/GitLab.com Username | Email | Telegram | Keybase | Discord | Part of the team? | Community |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Andrei Jiroh | Since the team is founded | AndreiJirohHaliliDev2006 ([GitHub](https://github.com/AndreiJirohHaliliDev2006)/[GitLab](https://gitlab.com/AndreiJirohHaliliDev2006))| <andreijiroh@madebythepins.tk> | [AJHalili2006](https://telegram.dog/AJHalili2006) | [@ajhalilidevph06](https://keybase.io/ajhalilidevph06) | `HaliliAJ06Jiroh#7159` | Yes | All |
+| Zulkarnain K. | June 06 | TBA | TBA | [LouCypher](https://telegram.dog/LouCypher) | TBA | TBA | Yes, as a FedAdmin in the Telegram Community Network bot fed. | Telegram
+
+### Pending
 
 ### Past Members
 
