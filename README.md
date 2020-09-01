@@ -1,5 +1,9 @@
 # Community Hubs Network Board
 
+Community Hubs Networks board is an small group of both team members and members from the community which they earned our trust. They'll handle
+open-source code of conduct violations, has access to community moderation tools (across Telegram, GitHub/GitLab.com, Keybase, Discord and the Community Forum), and
+have maintainership tools n our open-source projects.
+
 ## Board Members
 
 We're looking for more members to help us handle code-of-conduct violations, enforce rules and moderate our Community Hubs, and voluntarily maintain our projects.
