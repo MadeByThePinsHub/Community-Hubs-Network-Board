@@ -11,11 +11,12 @@ If you think you want to join us, [create a new issue](https://github.com/MadeBy
 
 ### Current
 
-| Name | Member since | GitHub/GitLab.com Username | Email | Telegram | Keybase | Discord | Part of the team? | Community |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Andrei Jiroh | Since the team is founded | AndreiJirohHaliliDev2006 ([GitHub](https://github.com/AndreiJirohHaliliDev2006)/[GitLab](https://gitlab.com/AndreiJirohHaliliDev2006))| <andreijiroh@madebythepins.tk> | [AJHalili2006](https://telegram.dog/AJHalili2006) | [@ajhalilidevph06](https://keybase.io/ajhalilidevph06) | `HaliliAJ06Jiroh#7159` | Yes | All |
-| Zulkarnain K. | June 06 | TBA | TBA | [LouCypher](https://telegram.dog/LouCypher) | TBA | TBA | No, he's FedAdmin in the Telegram Community Network bot fed. | Telegram |
-| Robby O'Connor | April 15 | [robbyoconnor](https://github.com/robbyoconnor) | TBA | [robbyoconnor](https://t.me/robbyoconnor) | TBA | TBA | No, he's FedAdmin in the Telegram Community Network bot fed. | Telegram / Discord |
+| Name | Member since | GitHub/GitLab.com Username | Email | Telegram | Keybase | Discord | Community Forum | Part of the team? | Community |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Andrei Jiroh | Since the team is founded | AndreiJirohHaliliDev2006 ([GitHub](https://github.com/AndreiJirohHaliliDev2006)/[GitLab](https://gitlab.com/AndreiJirohHaliliDev2006))| <andreijiroh@madebythepins.tk> | [AJHalili2006](https://telegram.dog/AJHalili2006) | [@ajhalilidevph06](https://keybase.io/ajhalilidevph06) | `HaliliAJ06Jiroh#7159` | <https://community.madebythepins.tk/u/AJHalili2006> | Yes | All |
+| Zulkarnain K. | June 06 | TBA | TBA | [LouCypher](https://telegram.dog/LouCypher) | TBA | TBA | TBA | No, he's FedAdmin in the Telegram Community Network bot fed. | Telegram |
+| Robby O'Connor | April 15 | [robbyoconnor](https://github.com/robbyoconnor) | TBA | [robbyoconnor](https://t.me/robbyoconnor) | TBA | `robbyoconnor#8740` | TBA | No, he's FedAdmin in the Telegram Community Network bot fed. | Telegram / Discord |
+| Tipz Team | July 31 | [TipzTeam](https://github.com/TipzTeam) | TBA | [TipzTeam](https://t.me/TipzTeam) | TBA | `TipzTeam#2447` | <https://community.madebythepins.tk/u/TipzTeam> | No, he's FedAdmin in the Telegram Community Network bot fed. | Telegram / Discord / Community Forum
 
 ### Pending
 
