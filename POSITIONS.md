@@ -1,9 +1,13 @@
 # Available Board Positions
-This section is currently WIP. Come back later.
+This file documents what are available positions within
+the board. We'll update this section as things happen.
+
+This section is currently WIP, so please com back later
+for updates
 
 ## Community Forum Moderator
 
-## GitHub/GitLab Maintainer
+## Community OSS Maintainer
 
 ## Telegram Community Network Moderator/FedAdmin
 
